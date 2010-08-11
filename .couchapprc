@@ -1,10 +1,10 @@
 {
   "env": {
     "default": {
-      "db": "http://locahost:5984/relaxtrack"
+      "db": "http://127.0.0.1:5984/relaxtrack"
     },
     "development": {
-      "db": "http://locahost:5984/relaxtrack"
+      "db": "http://127.0.0.1:5984/relaxtrack"
     }
   }
 }
