@@ -1,1 +1,11 @@
-{}
+{
+  "env": {
+    "default": {
+      "db": "http://locahost:5984/relaxtrack"
+    },
+    "development": {
+      "db": "http://locahost:5984/relaxtrack"
+    }
+  }
+}
+
